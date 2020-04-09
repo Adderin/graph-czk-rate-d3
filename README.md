@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ____
+Graph example
 
+![Alt-текст](https://i.ibb.co/QkN3ZRY/example.png "Graph example")
+____
 ## Used libraries
 
 `d3` from https://d3js.org/ - lovely visual library
